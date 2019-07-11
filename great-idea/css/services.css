@@ -59,7 +59,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Titillium Web', sans-serif;
-    margin: 10%;
+    margin: 0 10%
 }
 
 h1, h2, h3, h4, h5 {
@@ -77,8 +77,8 @@ h1, h2, h3, h4, h5 {
 header nav {
     display: flex;
     justify-content: space-evenly;
-    vertical-align: top;
-    margin-top: 35px;
+    /* vertical-align: top; */
+    /* margin-top: 35px; */
         
       }
       
